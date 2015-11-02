@@ -1,0 +1,37 @@
+{
+  "name": "jsonflow-asciidump",
+  "version": "1.0.1",
+  "description": "easy way to visualize jsonflow graphs in ascii",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "undirender": "^0.1.0",
+    "jsonflow": "^1.0.5",
+    "json-ref-lite": "^1.0.61"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://coderofsalvation@github.com/coderofsalvation/jsonflow-asciidump.git"
+  },
+  "keywords": [
+    "jsonflow",
+    "graph",
+    "programming",
+    "restflow",
+    "dataflow",
+    "flowbased",
+    "json"
+  ],
+  "author": "coderofsalvation",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/coderofsalvation/jsonflow-asciidump/issues"
+  },
+  "homepage": "https://github.com/coderofsalvation/jsonflow-asciidump#readme"
+}
