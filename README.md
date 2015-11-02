@@ -1,6 +1,6 @@
 ## Usage
 
-    npm install jsonflow-ascii
+    npm install jsonflow-asciidump
 
 and:
 
