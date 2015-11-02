@@ -28,7 +28,7 @@
       nodes = graph.length;
       space = ((opts != null ? opts.space : void 0) ? opts.space : 2);
       s = undirender(nodes * space, parseInt((nodes / 2) * space), graph);
-      return console.log(s);
+      return s;
     };
     return me;
   })({});

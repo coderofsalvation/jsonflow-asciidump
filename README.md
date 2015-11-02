@@ -8,7 +8,7 @@ and:
 
     json = require __dirname+"/graph.coffee"
 
-    jfd.render json
+    console.log jfd.render json
 
 outputs:
 

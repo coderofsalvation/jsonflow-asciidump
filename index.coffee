@@ -16,7 +16,7 @@ module.exports = ( (me,opts) ->
     nodes = graph.length 
     space = ( if opts?.space then opts.space else 2 )
     s = undirender nodes*space, parseInt((nodes/2)*space), graph
-    console.log(s);
+    return s
 
   return me
 )({})
